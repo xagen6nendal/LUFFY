@@ -1,6 +1,5 @@
 # LUFFY Development Repository
 
-
 > 🚧 **Development Branch** - This is the main development repository for LUFFY (Learning to Reason Under Off‑Policy Guidance)
 
 ## About LUFFY
